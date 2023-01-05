@@ -1,7 +1,7 @@
 # Starbucks-page-project
 
 🔸 A single page static website created using Vanilla JavaScript to generate the entire contents of the page and Webpack to bundle files. Additional features as time goes on may be added. <br>
-🔸 Click and see live demo [here](https://vercel.com/hkankyilmazz-gmailcom/starbucks-restaurant-page-project-w8ej).
+🔸 Click and see live demo [here](https://starbucks-restaurant-page-project-w8ej.vercel.app/).
 
 ## 🔥 Technologies and Libraries <br>
 
