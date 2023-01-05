@@ -977,7 +977,7 @@ function homepage() {
   
   const footInfoPhrase = document.createElement('p')
   footInfo.append(footInfoPhrase);
-  footInfoPhrase.innerText = "Copyright © The Odin Project 2022"
+  footInfoPhrase.innerText = "Copyright © The HakanKarayilmaz Project 2022"
 
 
   return container;
